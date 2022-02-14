@@ -1,0 +1,17 @@
+﻿# Default ignored files
+**/.idea/shelf/
+**/.idea/workspace.xml
+/workspace.xml
+# Rider ignored files
+**/.idea/modules.xml
+**/.idea/contentModel.xml
+**/.idea/projectSettingsUpdater.xml
+**/.idea/.idea.*.iml
+# Editor-based HTTP Client requests
+**/.idea/httpRequests/
+# Datasource local storage ignored files
+**/.idea/dataSources/
+**/.idea/dataSources.local.xml
+# .NET build ignored files
+**/bin/
+**/obj/
