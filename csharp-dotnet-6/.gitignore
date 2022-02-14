@@ -15,3 +15,4 @@
 # .NET build ignored files
 **/bin/
 **/obj/
+**/.vs/

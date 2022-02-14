@@ -1,0 +1,8 @@
+﻿<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Publish CSharpNativeUtil trim sf_nl sc to folder" type="DotNetFolderPublish" factoryName="Publish to folder">
+    <riderPublish configuration="Release" include_native_libs_for_self_extract="true" platform="Any CPU" produce_single_file="true" runtime="win-x64" self_contained="true" target_folder="$PROJECT_DIR$/CSharpNativeUtil/bin/Release/net6.0/publish_trim_sf_nl_sc" target_framework="net6.0" trim_unused_assemblies="true" uuid_high="608067355007797151" uuid_low="-5377229319029206324" />
+    <method v="2">
+      <option name="Build" default="false" projectName="CSharpNativeUtil" projectPath="file://$PROJECT_DIR$/CSharpNativeUtil/CSharpNativeUtil.csproj" />
+    </method>
+  </configuration>
+</component>
